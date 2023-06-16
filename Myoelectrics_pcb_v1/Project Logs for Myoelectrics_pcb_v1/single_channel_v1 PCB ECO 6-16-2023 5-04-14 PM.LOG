@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=NetR6_1 Pin=U3-1
+Removed Pin From Net: NetName=NetC5_1 Pin=U3-2
+Removed Pin From Net: NetName=NetC6_1 Pin=U3-3
+Removed Pin From Net: NetName=-5 Pin=U3-4
+Removed Pin From Net: NetName=NetC8_2 Pin=U3-5
+Removed Pin From Net: NetName=NetC9_2 Pin=U3-6
+Removed Pin From Net: NetName=+5 Pin=U3-7
+Removed Pin From Net: NetName=NetR5_1 Pin=U3-8
+Removed Member From Class: ClassName=U_preamp_and_RLD Member=U3
+Added Component: Designator=U1(D0008A_L)
+Add component (AddParameter): Name = "Bandwidth at G"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CMRR(Min)(dB)"; Value = "120"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=INA128&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/litv/pdf/msoi002j"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SBOS051B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gain(V/V)"; Value = "1 to 10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Bias Current (+/-)(Max)(nA)"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Offset (+/-)(Max)(uV)"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Offset Drift (+/-)(Max)(uV/Degrees Celsius)"; Value = "0.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Noise at 1kHz(Typ)(nV/rt(Hz))"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Non-Linearity (+/-)(Max)(%)"; Value = "0.002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Offset (+/-)(Max)(uV)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Offset Drift (+/-)(Max)(uV/Degrees Celsius)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin Plastic Small Outline, Body 4.9 x 3.9 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "D0008A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "4040047-3/M, 06/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "INA128U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current (+/-)(Typ)(mA)"; Value = "0.7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubFamily"; Value = "Dual Supply"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vs(Max)(V)"; Value = "36"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vs(Min)(V)"; Value = "4.5"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR6_1 Pin=U1-1
+Added Pin To Net: NetName=NetC5_1 Pin=U1-2
+Added Pin To Net: NetName=NetC6_1 Pin=U1-3
+Added Pin To Net: NetName=-5 Pin=U1-4
+Added Pin To Net: NetName=NetC8_2 Pin=U1-5
+Added Pin To Net: NetName=NetC9_2 Pin=U1-6
+Added Pin To Net: NetName=+5 Pin=U1-7
+Added Pin To Net: NetName=NetR5_1 Pin=U1-8
+Added Member To Class: ClassName=U_preamp_and_RLD Member=Component U1 INA128U

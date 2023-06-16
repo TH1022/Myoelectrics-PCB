@@ -1,0 +1,11 @@
+Removed Member From Class: ClassName=single_channel Member=R1
+Removed Member From Class: ClassName=single_channel Member=R2
+Change Component Designator: OldDesignator=R1 NewDesignator=U1
+Change Component Designator: OldDesignator=R2 NewDesignator=U2
+Change Component Designator: OldDesignator=U1 NewDesignator=U3
+Change Component Designator: OldDesignator=U4 NewDesignator=U5
+Change Component Designator: OldDesignator=U5 NewDesignator=U6
+Change Component Designator: OldDesignator=U6 NewDesignator=U4
+Added Member To Class: ClassName=single_channel Member=Component U1 L78L05ABUTR
+Added Member To Class: ClassName=single_channel Member=Component U2 L79L05ABUTR
+Added Member To Class: ClassName=U_preamp_and_RLD Member=Component U3 INA128U
