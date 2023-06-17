@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=VBAT_P Pin=J1-5
+Removed Pin From Net: NetName=VBAT_N Pin=J1-6
+Removed Pin From Net: NetName=GND Pin=J1-7
+Removed Member From Class: ClassName=single_channel Member=J1
+Removed Member From Class: ClassName=U_preamp_and_RLD Member=U1
+Removed Member From Class: ClassName=U_preamp_and_RLD Member=U2
+Removed Member From Class: ClassName=single_channel Member=U3
+Added Component: Designator=*(PADS)
+Added Pin To Net: NetName=VBAT_P Pin=*-5
+Added Pin To Net: NetName=VBAT_N Pin=*-6
+Added Pin To Net: NetName=GND Pin=*-7
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=C5-2
+Added Pin To Net: NetName=Net*_1 Pin=R1-2
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=C6-2
+Added Pin To Net: NetName=Net*_2 Pin=R2-1
+Added Net: Name=Net*_2
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=Net*_3 Pin=C7-1
+Added Pin To Net: NetName=Net*_3 Pin=R8-2
+Added Net: Name=Net*_3
+Added Pin To Net: NetName=Net*_4 Pin=*-4
+Added Pin To Net: NetName=Net*_4 Pin=R20-1
+Added Pin To Net: NetName=Net*_4 Pin=U11-6
+Added Net: Name=Net*_4
+Added Member To Class: ClassName=single_channel Member=Component * Pads
+Added Member To Class: ClassName=U_preamp_and_RLD Member=Component R1 4M7
+Added Member To Class: ClassName=U_preamp_and_RLD Member=Component R2 4M7
+Added Member To Class: ClassName=single_channel Member=Component U1 L78L05ABUTR
+Added Member To Class: ClassName=U_preamp_and_RLD Member=Component U5 UA741CDT
+Added Member To Class: ClassName=U_preamp_and_RLD Member=Component U6 UA741CDT
