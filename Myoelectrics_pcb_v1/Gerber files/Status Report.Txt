@@ -1,0 +1,29 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[single_channel_v1_Copper_Signal_Top.gbr]
+   Generated File[single_channel_v1_Copper_Signal_1.gbr]
+   Generated File[single_channel_v1_Copper_Signal_2.gbr]
+   Generated File[single_channel_v1_Copper_Signal_3.gbr]
+   Generated File[single_channel_v1_Copper_Signal_4.gbr]
+   Generated File[single_channel_v1_Copper_Signal_Bot.gbr]
+   Generated File[single_channel_v1_Pads_Bot.gbr]
+   Generated File[single_channel_v1_Pads_Top.gbr]
+   Generated File[single_channel_v1_Paste_Bot.gbr]
+   Generated File[single_channel_v1_Legend_Bot.gbr]
+   Generated File[single_channel_v1_Soldermask_Bot.gbr]
+   Generated File[single_channel_v1_Legend_Top.gbr]
+   Generated File[single_channel_v1_Paste_Top.gbr]
+   Generated File[single_channel_v1_Soldermask_Top.gbr]
+   Generated File[single_channel_v1_Profile.gbr]
+   Generated File[single_channel_v1_NPTH_Drill.gbr]
+   Generated File[single_channel_v1_PTH_Drill.gbr]
+   Generated File[single_channel_v1.RUL]
+   Generated File[single_channel_v1.EXTREP]
+   Generated File[single_channel_v1.REP]
+
+
+Files Generated   : 20
+Documents Printed : 0
+
+Finished Output Generation At 2:07:33 AM On 6/18/2023
