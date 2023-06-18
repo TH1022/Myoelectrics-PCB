@@ -1,0 +1,39 @@
+Added Component: Designator=U9(STM-SO-8_D_L)
+Add component (AddParameter): Name = "Common Mode Rejection Ratio"; Value = "70dB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.st.com/content/ccc/resource/technical/document/datasheet/group1/d6/9e/4e/8a/fa/65/4c/d0/CD00001252/files/CD00001252.pdf/jcr:content/translations/en.CD00001252.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 3, 09/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dual Supply Voltage (Max)"; Value = "±20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dual Supply Voltage (Min)"; Value = "±2.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dual Supply Voltage (Typ)"; Value = "±3/±5/±9/±12/±15/±18V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Bias Current"; Value = "100nA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Offset Voltage"; Value = "5mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of  Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp Range"; Value = "0Cto70C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Classification"; Value = "Commercial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "8-Pin Small Outline Integrated Circuit, Body 4.9 x 3.9 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "SO-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "SON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Supply Requirement"; Value = "Dual"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rail/Rail I/O Type"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shut Down Feature"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Single Supply Voltage (Max)"; Value = "NotRequiredV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Single Supply Voltage (Min)"; Value = "NotRequiredV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Single Supply Voltage (Typ)"; Value = "NotRequiredV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Slew Rate"; Value = "0.5V/us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "Bipolar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "GeneralPurposeAmplifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unity Gain Bandwidth Product"; Value = "1MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Gain in dB"; Value = "106.02dB"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR14_1 Pin=U9-2
+Added Pin To Net: NetName=GND Pin=U9-3
+Added Pin To Net: NetName=-5 Pin=U9-4
+Added Pin To Net: NetName=NetR15_1 Pin=U9-6
+Added Pin To Net: NetName=+5 Pin=U9-7
+Added Member To Class: ClassName=U_2nd_amp_and_biasing Member=Component U9 UA741CDT

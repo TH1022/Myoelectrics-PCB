@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=R16 Old DesignItemId=RES_0603 New DesignItemId=RES_0805
+Change Component DesignItemId : Designator=R17 Old DesignItemId=RES_0603 New DesignItemId=RES_0805
+Change Component Footprint: Designator=R16 Old Footprint=RES_0603 New Footprint=RES_0805
+Change Component Footprint: Designator=R17 Old Footprint=RES_0603 New Footprint=RES_0805
+Change Component Description : Designator=R16 Old Description=Resistor SMD 0603 New Description=Resistor SMD 0805
+Change Component Description : Designator=R17 Old Description=Resistor SMD 0603 New Description=Resistor SMD 0805
