@@ -1,3 +1,3 @@
 # Myoelectrics-PCB
 
-## A tiny breakout board for sEMG and any bipolar biomedical signl conditioning
+## A tiny breakout board for sEMG and any bipolar biomedical signal conditioning
