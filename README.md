@@ -5,8 +5,6 @@
 ![Schematics 2](README_pics/c2.PNG)
 ![Schematics 3](README_pics/c3.PNG)
 ![Schematics 4](README_pics/c4.PNG)
-![2D 1](README_pics/b&w.PNG)
-
 ![2D 2](README_pics/2D.PNG)
 ![Stack-up](README_pics/stackup.PNG)
 
